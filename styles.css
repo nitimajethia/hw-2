@@ -1,0 +1,42 @@
+.container {
+    max-width: 500px;
+    margin: 0 auto; 
+    align-items: center;
+}
+.headline{
+    font-size: 3em;
+    font-family: Georgia, Cambria, Cochin,  Times, 'Times New Roman', serif;
+}
+.subhead {
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    line-height: 1.4em;
+    padding-bottom: 20px; 
+}
+
+figure {
+    width: 100%; 
+    margin: 0 auto;
+}
+
+.top-photo {
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+figcaption {
+    color: gray;
+    font-size: .75em;
+}
+
+.byline {
+    text-transform: uppercase;
+}
+
+span {
+    text-transform: uppercase;
+    font-weight:bold;
+}
